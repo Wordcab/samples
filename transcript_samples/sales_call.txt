@@ -1,4 +1,3 @@
-
 [00:00:08 -> 00:00:11] Lauren: Thank you for calling Nissan. My name is Lauren. Can I have your name?
 [00:00:11 -> 00:00:13] Sam: Yeah, my name is John Smith.
 [00:00:13 -> 00:00:15] Lauren: Thank you, John. How can I help you?
@@ -20,4 +19,4 @@
 [00:01:32 -> 00:01:42] Lauren: In addition, special offers like the current promotion don't come around too often. I would definitely recommend taking advantage of the extra $50 off before it expires.
 [00:01:42 -> 00:01:44] Sam: Yeah, that does sound pretty good.
 [00:01:44 -> 00:01:53] Lauren: If I set this order up for you now, it will ship out today and for $50 less. Do you have your credit card handy? And I can place this order for you now?
-[00:01:53 -> 00:01:58] Sam: Yeah, let's go ahead and use a Visa. My number is. 
+[00:01:53 -> 00:01:58] Sam: Yeah, let's go ahead and use a Visa. My number is.
